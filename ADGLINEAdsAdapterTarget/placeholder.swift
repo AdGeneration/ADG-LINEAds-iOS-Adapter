@@ -1,0 +1,3 @@
+//
+//  ADG-LINEAds-iOS-Adapter
+//
