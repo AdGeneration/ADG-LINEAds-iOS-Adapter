@@ -21,7 +21,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/ly-ads-network/swift-package-manager-fivead.git",
-            exact: "3.1.1"
+            exact: "3.1.2"
         ),
     ],
     targets: [
@@ -36,8 +36,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ADGLINEAdsAdapter",
-            url: "https://github.com/AdGeneration/ADG-LINEAds-iOS-Adapter/releases/download/3.1.100/ADGLINEAds.xcframework.zip",
-            checksum: "6a70b0094c75c7708c5bbf57e23af0307cf5227ee0d8ccc48874fa8c38ac716d"
+            url: "https://github.com/AdGeneration/ADG-LINEAds-iOS-Adapter/releases/download/3.1.200/ADGLINEAds.xcframework.zip",
+            checksum: "2eb6961f7e3f07c4ec5b96cbbf7f48eb8045932b132e40433a49dfc4a0cbd672"
         ),
     ]
 )
